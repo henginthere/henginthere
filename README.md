@@ -1,6 +1,6 @@
-### 💖😽Bae HyeYeon😽💖
+### 💖😽Bae HyeYeon (Back-End Engineer)😽💖
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hybae98)](https://solved.ac/hybae98)   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henginthere)](https://github.com/henginthere/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henginthere&show_icons=true&theme=buefy)
 <hr/>
 
 #### 💌 Contact & Channels
